@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Have a look at my website by clicking [here](https://silver-tarsier-673b16.netlify.app/).
+
+# To Run this Project follow the below steps : -
+
 ## Available Scripts
 
 In the project directory, you can run:
