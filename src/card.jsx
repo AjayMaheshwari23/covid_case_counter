@@ -9,10 +9,10 @@ console.log(data);
         return (
             <div>
                 <h1>
-                    Positive Cases : <CountUp start={0} end={data.data.positive} duration={4.0} separator="," />
+                    Positive Cases : <CountUp start={0} style={{ color:'red'}} end={data.data.positive} duration={4.0} separator="," />
                 </h1>
                 <h1>
-                    Negative Cases: <CountUp start={0} end={data.data.negative} duration={2.5} separator="," />
+                    Negative Cases : <CountUp start={0} style={{ color:'green'}} end={data.data.negative} duration={2.5} separator="," />
                 </h1>
             </div>
         );
